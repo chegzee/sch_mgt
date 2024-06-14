@@ -1,0 +1,1 @@
+(function(o){const e=o["gu"]=o["gu"]||{};e.dictionary=Object.assign(e.dictionary||{},{"%0 of %1":"",Cancel:"",Clear:"","Remove color":"","Restore default":"","Rich Text Editor. Editing area: %0":"",Save:"","Show more items":""});e.getPluralForm=function(o){return o!=1}})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
